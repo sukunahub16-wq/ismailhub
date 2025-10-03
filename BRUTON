@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sukunahub16-wq/BRUTON-HUB-x/refs/heads/main/BRUTONHUBx.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sukunahub16-wq/V.-0.9/refs/heads/main/BRUTON"))()
