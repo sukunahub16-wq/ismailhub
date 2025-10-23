@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sukunahub16-wq/ismailhub/refs/heads/main/L.lua"))()
+loadstring(game:HttpGet("https://scriptsbinsauth.vercel.app/api/scripts/293e9a44-861f-4955-81f6-b7dcc796b455/raw"))()
