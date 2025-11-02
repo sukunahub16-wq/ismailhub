@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://scriptsbinsauth.pages.dev/api/scripts/24ee7a11-30a5-476b-8fed-aa883745fd66/raw"))()
+--admin
+loadstring(game:HttpGet("https://scriptsbinsauth.vercel.app/api/scripts/4471c320-51f7-4b3e-a501-7125f9cad6d2/raw"))()
+--script BRUTON HUB 
+loadstring(game:HttpGet("https://scriptsbinsauth.vercel.app/api/scripts/56091e9d-4e88-49b2-bd37-a904a7b25006/raw"))()
