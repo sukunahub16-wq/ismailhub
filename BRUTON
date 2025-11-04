@@ -1,4 +1,4 @@
 --admin
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sukunahub16-wq/admin/refs/heads/main/admin%20"))()
 --script BRUTON HUB 
-loadstring(game:HttpGet("https://scriptsbinsauth.vercel.app/api/scripts/56091e9d-4e88-49b2-bd37-a904a7b25006/raw"))()
+loadstring(game:HttpGet("https://scriptsbinsauth.vercel.app/api/scripts/f6d266ad-0a33-4250-b4a9-3951dbf2472f/raw"))()
